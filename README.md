@@ -1,0 +1,1 @@
+# smartinfra-one-license
